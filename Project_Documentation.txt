@@ -1,0 +1,98 @@
+=====================================================
+SALES DATA ANALYSIS SYSTEM - PROJECT DOCUMENTATION
+=====================================================
+
+Student Name: MEGHANA
+Date: February 3, 2026
+Project: Sales Data Analysis Using Python
+
+=====================================================
+1. PROJECT OVERVIEW
+=====================================================
+
+This project analyzes sales data of 5 products using Python.
+It calculates total sales, average sales, identifies the 
+best-selling product, and displays a bar graph.
+
+=====================================================
+2. TECHNOLOGIES USED
+=====================================================
+
+- Python 3.14.3
+- Pandas library (for data analysis)
+- Matplotlib library (for visualization)
+
+=====================================================
+3. HOW THE PROGRAM WORKS
+=====================================================
+
+Step 1: Creates sample sales data for 5 products
+Step 2: Stores data in a Pandas DataFrame
+Step 3: Calculates total sales (sum of all sales)
+Step 4: Calculates average sales (mean)
+Step 5: Finds the best-selling product (maximum sales)
+Step 6: Creates a bar chart to visualize the data
+
+=====================================================
+4. RESULTS OBTAINED
+=====================================================
+
+Total Sales: ₹1,88,000
+Average Sales: ₹37,600
+Best-Selling Product: Mobile (₹80,000)
+
+Products Analyzed:
+- Laptop: ₹50,000
+- Mobile: ₹80,000
+- Tablet: ₹35,000
+- Headphones: ₹15,000
+- Keyboard: ₹8,000
+
+=====================================================
+5. HOW TO RUN THE PROJECT
+=====================================================
+
+1. Open Command Prompt in the project folder
+2. Type: python sales_analysis.py
+3. Press Enter
+4. View the output and graph
+
+=====================================================
+6. FILES IN THE PROJECT
+=====================================================
+
+- sales_analysis.py (Python code file)
+- Sales_Analysis_Mini_Project_Report.docx (Word report)
+- Project_Documentation.txt (This file)
+- Screenshot1_Code.png (Code screenshot)
+- Screenshot2_Output.png (Output screenshot)
+- Screenshot3_Graph.png (Graph screenshot)
+
+=====================================================
+7. KEY LEARNINGS
+=====================================================
+
+- How to use Python for data analysis
+- Working with Pandas DataFrames
+- Performing calculations (sum, mean, max)
+- Creating visualizations with Matplotlib
+- Understanding sales data insights
+
+=====================================================
+8. CONCLUSION
+=====================================================
+
+This project successfully demonstrates basic sales data
+analysis using Python. The system can identify sales trends
+and help businesses make data-driven decisions.
+
+Future improvements can include:
+- Reading data from CSV files
+- Adding more products
+- Monthly/yearly comparisons
+- Profit analysis
+
+=====================================================
+PROJECT COMPLETED SUCCESSFULLY!
+=====================================================
+
